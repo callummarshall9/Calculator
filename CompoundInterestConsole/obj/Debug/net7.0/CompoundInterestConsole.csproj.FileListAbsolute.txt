@@ -1,0 +1,15 @@
+C:\Users\callu\source\repos\Calculator\CompoundInterestConsole\bin\Debug\net7.0\CompoundInterestConsole.exe
+C:\Users\callu\source\repos\Calculator\CompoundInterestConsole\bin\Debug\net7.0\CompoundInterestConsole.deps.json
+C:\Users\callu\source\repos\Calculator\CompoundInterestConsole\bin\Debug\net7.0\CompoundInterestConsole.runtimeconfig.json
+C:\Users\callu\source\repos\Calculator\CompoundInterestConsole\bin\Debug\net7.0\CompoundInterestConsole.dll
+C:\Users\callu\source\repos\Calculator\CompoundInterestConsole\bin\Debug\net7.0\CompoundInterestConsole.pdb
+C:\Users\callu\source\repos\Calculator\CompoundInterestConsole\obj\Debug\net7.0\CompoundInterestConsole.csproj.AssemblyReference.cache
+C:\Users\callu\source\repos\Calculator\CompoundInterestConsole\obj\Debug\net7.0\CompoundInterestConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\callu\source\repos\Calculator\CompoundInterestConsole\obj\Debug\net7.0\CompoundInterestConsole.AssemblyInfoInputs.cache
+C:\Users\callu\source\repos\Calculator\CompoundInterestConsole\obj\Debug\net7.0\CompoundInterestConsole.AssemblyInfo.cs
+C:\Users\callu\source\repos\Calculator\CompoundInterestConsole\obj\Debug\net7.0\CompoundInterestConsole.csproj.CoreCompileInputs.cache
+C:\Users\callu\source\repos\Calculator\CompoundInterestConsole\obj\Debug\net7.0\CompoundInterestConsole.dll
+C:\Users\callu\source\repos\Calculator\CompoundInterestConsole\obj\Debug\net7.0\refint\CompoundInterestConsole.dll
+C:\Users\callu\source\repos\Calculator\CompoundInterestConsole\obj\Debug\net7.0\CompoundInterestConsole.pdb
+C:\Users\callu\source\repos\Calculator\CompoundInterestConsole\obj\Debug\net7.0\CompoundInterestConsole.genruntimeconfig.cache
+C:\Users\callu\source\repos\Calculator\CompoundInterestConsole\obj\Debug\net7.0\ref\CompoundInterestConsole.dll

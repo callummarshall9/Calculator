@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "CompoundInterestConsole/1.0.0": {
+        "runtime": {
+          "CompoundInterestConsole.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CompoundInterestConsole/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
